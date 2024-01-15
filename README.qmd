@@ -1,0 +1,35 @@
+---
+format: gfm
+---
+
+# README
+
+
+## Workshop info emailed to Dariia on January 14, 2024
+
+Hi, Dariia,
+
+Sorry for the delay with this information. Please find the responses below and the photo attached as a png, and please let me know if more information is needed.
+
+Thanks again!
+
+fred
+
+Workshop Title:
+
+R packages to promote reproducible research in data analysis and software development
+
+Workshop Description:
+
+Participants will learn to use functions from several packages, including `devtools` and `rrtools`, in the R ecosystem, while learning and adhering to practices to promote reproducible research. Participants will learn to create their own R packages for software development or data analysis. We will also motivate the need to follow reproducible research practices and will discuss strategies and open source tools.
+
+About Fred:
+
+Fred is a biostatistics and translational medicine researcher living in Michigan, USA. His research focuses on statistical questions that arise in human genetics studies and their applications to clinical medicine and public health. He has extensive teaching experience as a statistics lecturer at the University of Wisconsin-Madison (https://www.wisc.edu) and as a workshop instructor for The Carpentries (https://carpentries.org/index.html). He enjoys spending time with his nieces and nephews and his two dogs. He also blogs (occasionally) at https://fboehm.us/blog/.
+
+
+
+
+
+
+
